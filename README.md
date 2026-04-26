@@ -52,7 +52,7 @@ Este proyecto soluciona eso con un enfoque claro:
 | Folder                     | Purpose                             |
 | -------------------------- | ----------------------------------- |
 | `001-Journal/`             | Daily reflections                   |
-| `002-University/`          | Academic work (Semester 6)          |
+| `002-University/`          | Academic work          |
 | `003-Autonomous learning/` | Self-directed learning              |
 | `004-Projects/`            | Personal projects                   |
 | `005-Books/`               | Book notes                          |
